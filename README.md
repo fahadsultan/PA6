@@ -36,7 +36,7 @@ Use [this calendly link](https://calendly.com/ssultan-dpq/) provided on the cour
 
 2. You are to write JUnit test cases in the `MaxHeapTest` and `MinHeapTest` file to test your implementation.
 
-    Make sure to test all the methods in the `MaxHeapTest` class, keeping in mind any <u>edge cases</u> that may arise.
+    Make sure to test all the methods in the `MaxHeapTest` and `MinHeapTest` class, keeping in mind any <u>edge cases</u> that may arise.
 
 ## Evaluation
 
